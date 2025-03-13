@@ -1,0 +1,6 @@
+openai 
+streamlit 
+pymupdf 
+pdfminer.six 
+nltk 
+spacy
